@@ -2,7 +2,7 @@ Vagrant.configure("2") do |config|
 
   config.vm.box = "gusztavvargadr/windows-11"
   config.vm.hostname = "windows-11"
-  config.vm.box_version = "2202.0.2211"
+  config.vm.box_version = "2202.0.2306"
   config.vbguest.auto_update = false
 
   config.vm.synced_folder "data/", "/vagrant"

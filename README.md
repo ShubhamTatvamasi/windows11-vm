@@ -3,7 +3,7 @@
 Download windows 11 vagrant box:
 ```bash
 vagrant box add gusztavvargadr/windows-11 \
-  --box-version=2202.0.2211 \
+  --box-version=2202.0.2306 \
   --provider=virtualbox
 ```
 
